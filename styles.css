@@ -1,2 +1,16 @@
-
-/* Your CSS Code here. */
+ul{
+	display:flex;
+	box-sizing:border-box;
+	justify-content:flex-start;
+}
+li{
+	list-style-type:none;
+	margin-right:50px;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+nav{
+	background:black;
+}
